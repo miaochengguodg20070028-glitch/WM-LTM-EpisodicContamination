@@ -21,7 +21,7 @@ Across two experiments, participants memorized the colors of real-world objects.
 
 ## Contents
 - `data/` – Raw and preprocessed behavioral data.  
-- `analysis/` – MATLAB and Python scripts for model fitting (Zhang & Luck mixture model, Bays et al. swap error model).  
+- `analysis/` – MATLAB scripts for model fitting (Zhang & Luck mixture model, Bays et al. swap error model).  
 - `figures/` – Reproduction of main figures from the paper.  
 - `README.md` – Project description and instructions.  
 
